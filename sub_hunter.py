@@ -62,7 +62,7 @@ class SubHunter:
         print(Fore.YELLOW + f"\n[*] Hasil disimpan ke file: {filename}")
 
 if __name__ == "__main__":
-    target = input("Masukkan Domain (contoh: baliprov.go.id): ").strip()
+    target = input("Masukkan Domain : ").strip()
 
     if not target:
         print(Fore.RED + "Target tidak boleh kosong!")
