@@ -37,4 +37,4 @@ def probe_subdomains(input_file):
     print(Fore.CYAN + "\n[*] Scanning selesai. Hasil target hidup disimpan di: live_targets.txt")
 
 if __name__ == "__main__":
-    probe_subdomains("subdomains_baliprov_go_id.txt")
+    probe_subdomains("subdomains_xxxxxxx.txt")
