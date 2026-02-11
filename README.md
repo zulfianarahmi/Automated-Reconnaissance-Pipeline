@@ -2,6 +2,8 @@
 
 A modular Python-based reconnaissance pipeline designed to automate the initial phases of VAPT (Vulnerability Assessment and Penetration Testing).
 
+Link Medium : https://medium.com/p/58d2382a82b9?postPublishedType=initial
+
 ## Features
 - **Passive Recon**: Enumerating subdomains via Certificate Transparency (CT) logs.
 - **Service Probing**: Validating live targets and identifying HTTP status codes.
